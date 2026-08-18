@@ -1,6 +1,6 @@
 ### Hi, I'm Mouad 👋
 
-Full-stack & AI engineer based in Tetouan, Morocco. I build multi-tenant SaaS platforms, RAG pipelines, and video automation systems — and I'm looking for engineering roles in Europe.
+Full-stack & AI engineer based in Tetouan, Morocco. I build multi-tenant SaaS platforms, RAG pipelines, and video automation systems.
 
 **🌐 Portfolio → [portfolio-khaki-sigma-j2u4qfy2z5.vercel.app](https://portfolio-khaki-sigma-j2u4qfy2z5.vercel.app)**
 
