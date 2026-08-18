@@ -33,4 +33,4 @@ Trained through **1337 / 42 Network** — peer-to-peer, project-based, no lectur
 
 ---
 
-📫 [sodormouad@gmail.com](mailto:sodormouad@gmail.com) · [LinkedIn](https://ma.linkedin.com/in/mouad-sodor)
+📫 [sodormouad@gmail.com](mailto:sodormouad@gmail.com) · [LinkedIn](https://www.linkedin.com/in/msodor)
