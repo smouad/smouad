@@ -2,7 +2,7 @@
 
 Full-stack & AI engineer based in Tetouan, Morocco. I build multi-tenant SaaS platforms, RAG pipelines, and video automation systems.
 
-**🌐 Portfolio → [portfolio-khaki-sigma-j2u4qfy2z5.vercel.app](https://portfolio-khaki-sigma-j2u4qfy2z5.vercel.app)**
+**🌐 Portfolio → [msodor.dev](https://msodor.dev)**
 
 ---
 
@@ -16,7 +16,7 @@ Full-stack & AI engineer based in Tetouan, Morocco. I build multi-tenant SaaS pl
 
 **Browser extensions** — Manifest V3 tooling with React and Plasmo: SEO auditing, sales enablement, and data sync.
 
-> Most of this work lives in private and client repositories. The [portfolio](https://portfolio-khaki-sigma-j2u4qfy2z5.vercel.app) covers the architecture and decisions behind each system.
+> Most of this work lives in private and client repositories. The [portfolio](https://msodor.dev) covers the architecture and decisions behind each system.
 
 ---
 
